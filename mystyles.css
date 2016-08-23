@@ -1,0 +1,38 @@
+
+html{
+	background-color:#888888 ; 
+}
+
+.jumbroton{
+	padding:30px 30px 30px 30px;
+	background-color:#888888 ; 
+}
+
+
+.container {
+	background:url('/home/rejiya/Desktop/download (1).jpg') no-repeat center top #FFF;
+ position: relative;
+width:200px;
+
+padding:100px 30px 100px 30px;
+
+height:100%;
+border:green 1px solid;
+display: flex;
+  justify-content: center;
+
+}
+
+
+.form-group{
+      background-color: white;
+      padding:5px 30px 5px 30px;
+ }
+ #exampleInputEmail1{
+ 	width:450px; 
+
+ }
+ #exampleInputPassword1{
+ 	width: 450px;
+ }   
+ 
